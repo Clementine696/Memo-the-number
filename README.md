@@ -17,9 +17,19 @@
 - ไฟล์จำเป็นที่ต้องมี
     มีรูปภาพที่จำเป็น 2 รูปคือ HowToPlay.jpg เพื่อใช้แสดงในหน้า How to play 
     และ Dogge.jpg สำหรับ  Icon สุดน่ารักของโปรแกรม
+    
+    
+เมื่อเข้ามาหน้าแรกจะเจอกับการสอนเล่น และเมื่อกด play ก็จะไปหน้าตัวเกมส์
 ![image](https://user-images.githubusercontent.com/53567265/210804959-9e5384f1-416a-4184-9459-eee4a51fbb41.png)
 
-![image](https://user-images.githubusercontent.com/53567265/210569981-9902fcea-794f-4ae1-b2f7-752ed88654dc.png)
+เมื่อกด Start
+![image](https://user-images.githubusercontent.com/53567265/210808712-1934cb65-0d74-4450-b57a-7c57f3aa8b05.png)
+
+![image](https://user-images.githubusercontent.com/53567265/210808800-756a5422-b6b9-454b-a2e8-23aae465231e.png)
+
+![image](https://user-images.githubusercontent.com/53567265/210808866-42cb6d5a-e2ac-4411-963f-4fd95ad45ab9.png)
+
+ละก็มาถึงตาของเราที่ต้องกดตาม 
 
 ![image](https://user-images.githubusercontent.com/53567265/210805064-e43cbbc7-ec17-45ba-bc52-7be22750acb8.png)
 
