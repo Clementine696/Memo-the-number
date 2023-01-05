@@ -17,5 +17,6 @@
 - ไฟล์จำเป็นที่ต้องมี
     มีรูปภาพที่จำเป็น 2 รูปคือ HowToPlay.jpg เพื่อใช้แสดงในหน้า How to play 
     และ Dogge.jpg สำหรับ  Icon สุดน่ารักของโปรแกรม
+![image](https://user-images.githubusercontent.com/53567265/210804959-9e5384f1-416a-4184-9459-eee4a51fbb41.png)
 
 ![image](https://user-images.githubusercontent.com/53567265/210569981-9902fcea-794f-4ae1-b2f7-752ed88654dc.png)
