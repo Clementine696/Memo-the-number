@@ -31,14 +31,12 @@
 
 ละก็มาถึงตาของเราที่ต้องกดตาม 
 
-![image](https://user-images.githubusercontent.com/53567265/210805064-e43cbbc7-ec17-45ba-bc52-7be22750acb8.png)
 
 ![image](https://user-images.githubusercontent.com/53567265/210805120-a51e8e5f-ee04-41b3-a264-3452856c5acd.png)
 
+ละเมื่อเรากดเสร็จก็จะได้คะแนนดังนั้น
 ![image](https://user-images.githubusercontent.com/53567265/210805403-4ebec264-cb3c-42cb-9de9-1b5cc513034b.png)
 
-![image](https://user-images.githubusercontent.com/53567265/210805546-0a3dc8f9-0204-4596-ab10-a7f784da73d6.png)
+ถ้าเล่นชนะอีก
 
 ![image](https://user-images.githubusercontent.com/53567265/210805567-7a5c5076-8770-4139-a17b-23381da8e754.png)
-
-![image](https://user-images.githubusercontent.com/53567265/210805369-a853649f-6371-4890-addf-ce6e8df541d1.png)
