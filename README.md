@@ -58,12 +58,13 @@
 
 เมื่อกด continue ตัวเกมจะเพิ่มจำนวนเลขที่กระพริบไป 1 ตัว ซึ่งจะกลายเป็น 4 ตัว โดยที่ 3 ลำดับแรกยังคงเดิม
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/53567265/211372752-78180c88-1754-4ec3-9d80-2f015e9a4be6.png" width="300" /> 
-  <img src="https://user-images.githubusercontent.com/53567265/211372949-51007e4d-c785-4ae5-804c-b22b57f2c149.png" width="300" />
-  <img src="https://user-images.githubusercontent.com/53567265/211372995-6a22fcf1-a7b6-4693-9cd0-f13c5d5dc763.png" width="300" />
-  <img src="https://user-images.githubusercontent.com/53567265/211373040-f54ae59c-f699-454d-b719-965f90001f7c.png" width="300" />
+  <img src="https://user-images.githubusercontent.com/53567265/211372752-78180c88-1754-4ec3-9d80-2f015e9a4be6.png" width="220" /> 
+  <img src="https://user-images.githubusercontent.com/53567265/211372949-51007e4d-c785-4ae5-804c-b22b57f2c149.png" width="220" />
+  <img src="https://user-images.githubusercontent.com/53567265/211372995-6a22fcf1-a7b6-4693-9cd0-f13c5d5dc763.png" width="220" />
+  <img src="https://user-images.githubusercontent.com/53567265/211373040-f54ae59c-f699-454d-b719-965f90001f7c.png" width="220" />
 </p>
 
 ถ้าเล่นชนะอีก
 
-![image](https://user-images.githubusercontent.com/53567265/210805567-7a5c5076-8770-4139-a17b-23381da8e754.png)
+<img src="https://user-images.githubusercontent.com/53567265/210805567-7a5c5076-8770-4139-a17b-23381da8e754.png" width="300" />
+
