@@ -23,7 +23,7 @@
 ![image](https://user-images.githubusercontent.com/53567265/210804959-9e5384f1-416a-4184-9459-eee4a51fbb41.png)
 
 เมื่อกด Start
-![image](https://user-images.githubusercontent.com/53567265/210808712-1934cb65-0d74-4450-b57a-7c57f3aa8b05.png)
+![image alt="isolated" width="200"](https://user-images.githubusercontent.com/53567265/210808712-1934cb65-0d74-4450-b57a-7c57f3aa8b05.png)
 
 ![image](https://user-images.githubusercontent.com/53567265/210808800-756a5422-b6b9-454b-a2e8-23aae465231e.png)
 
