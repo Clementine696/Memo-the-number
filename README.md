@@ -34,6 +34,13 @@
 
 ![image](https://user-images.githubusercontent.com/53567265/210805120-a51e8e5f-ee04-41b3-a264-3452856c5acd.png)
 
+![image](https://user-images.githubusercontent.com/53567265/211361731-41cffe92-aecf-4598-b0b0-2cec22e71ad9.png)
+
+![image](https://user-images.githubusercontent.com/53567265/211361767-7df1166b-6b8c-4ef1-9867-4b21645afbec.png)
+
+![image](https://user-images.githubusercontent.com/53567265/211361797-d97a3065-b0f7-4fdf-bed7-eebeb39231e6.png)
+
+
 ละเมื่อเรากดเสร็จก็จะได้คะแนนดังนั้น
 ![image](https://user-images.githubusercontent.com/53567265/210805403-4ebec264-cb3c-42cb-9de9-1b5cc513034b.png)
 
