@@ -24,16 +24,16 @@
 เมื่อเข้ามาหน้าแรกจะเจอกับการสอนเล่น และเมื่อกด play ก็จะไปหน้าตัวเกมส์
 
 <p float="left">
-    <img src="https://user-images.githubusercontent.com/53567265/210804959-9e5384f1-416a-4184-9459-eee4a51fbb41.png" width="700" />
+    <img src="https://user-images.githubusercontent.com/53567265/210804959-9e5384f1-416a-4184-9459-eee4a51fbb41.png" width="600" />
     <img src="https://user-images.githubusercontent.com/53567265/211371362-a4b95e7a-0949-4adf-b646-d1f9c9f2c67e.png" width="280" />
 </p>
 
 เมื่อกด Start ตัวเกมส์จะกระพริบปุ่ม 3 ปุ่มให้เราจำว่าปุ่มอะไรและลำดับอะไรบ้าง
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/53567265/210808712-1934cb65-0d74-4450-b57a-7c57f3aa8b05.png" width="280" />
-  <img src="https://user-images.githubusercontent.com/53567265/210808800-756a5422-b6b9-454b-a2e8-23aae465231e.png" width="280" /> 
-  <img src="https://user-images.githubusercontent.com/53567265/210808866-42cb6d5a-e2ac-4411-963f-4fd95ad45ab9.png" width="280" />
+  <img src="https://user-images.githubusercontent.com/53567265/210808712-1934cb65-0d74-4450-b57a-7c57f3aa8b05.png" width="250" />
+  <img src="https://user-images.githubusercontent.com/53567265/210808800-756a5422-b6b9-454b-a2e8-23aae465231e.png" width="250" /> 
+  <img src="https://user-images.githubusercontent.com/53567265/210808866-42cb6d5a-e2ac-4411-963f-4fd95ad45ab9.png" width="250" />
 </p>
 
 เมื่อกระพริบเสร็จแล้วก็จะเปลี่ยนเป็นคำว่า จากคำว่า Remember จะเปลี่ยนเป็นคำว่า Your turn
