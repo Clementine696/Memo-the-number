@@ -1,5 +1,11 @@
 # Memo-the-number
 
+##Description
+This program need PyQt5 to run
+
+##How to play
+
+
 รายละเอียดการใช้งาน
 โปรแกรมนี้สามารถใช้งานได้กับผู้ที่มีอุปกรณ์รองรับ pyqt5 และ python ได้
 - การติดตั้งโปรแกรม
