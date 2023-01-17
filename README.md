@@ -1,9 +1,9 @@
 # Memo-the-number
 
-##Description
+## Description
 This program need PyQt5 to run
 
-##How to play
+## How to play
 
 
 รายละเอียดการใช้งาน
