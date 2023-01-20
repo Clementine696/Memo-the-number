@@ -10,6 +10,8 @@
 <br>
 
 ## How to play
+This game is a memmory game.
+1. Press start and remember the pattern of the blink.
 
 (โปรแกรมนี้เป็นเกมสำหรับฝึกทักษะความจำ)
 โดยมีขั้นตอนการเล่นดังนี้
