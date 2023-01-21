@@ -1,18 +1,14 @@
 # Memo-the-number
 
 ## Description
-- This program need PyQt5 to run
-
-- ไฟล์จำเป็นที่ต้องมี
-    มีรูปภาพที่จำเป็น 2 รูปคือ HowToPlay.jpg เพื่อใช้แสดงในหน้า How to play 
-    และ Dogge.jpg สำหรับ  Icon สุดน่ารักของโปรแกรม
+- This program run with PyQt5
     
 <br>
 
 ## How to play
-This game is a memmory game.
+This game is a memory game.
 1. Press start and remember the pattern of the blink.
-
+2. When the game say it's your turn. Press the button in the correct order.
 (โปรแกรมนี้เป็นเกมสำหรับฝึกทักษะความจำ)
 โดยมีขั้นตอนการเล่นดังนี้
 1. กดปุ่ม start แล้วจดจำตำแหน่งของปุ่มที่กระพริบ
