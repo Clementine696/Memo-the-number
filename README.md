@@ -7,8 +7,11 @@
 
 ## How to play
 This game is a memory game.
-1. Press start and remember the pattern of the blink.
+1. Press start and remember the pattern of the flashing buttons.
 2. When the game say it's your turn. Press the button in the correct order.
+3. When presses, there will be a delay of 1 second to press the next button again. The first time there will be 3 flashing buttons.
+
+This collection will be randomly selected for you. (Can repeat with the same channel)
 (โปรแกรมนี้เป็นเกมสำหรับฝึกทักษะความจำ)
 โดยมีขั้นตอนการเล่นดังนี้
 1. กดปุ่ม start แล้วจดจำตำแหน่งของปุ่มที่กระพริบ
