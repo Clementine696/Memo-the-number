@@ -11,7 +11,7 @@ This game is a memory game.
 2. When the game say it's your turn. Press the button in the correct order.
 3. When presses, there will be a delay of 1 second to press the next button again. The first time there will be 3 flashing buttons.
 The flashing will be randomly selected. (Can repeat with the same button)
-
+4. If pressed correctly, press the continue button, this time increasing the number of flashing buttons by 1 button.
 
 
 (โปรแกรมนี้เป็นเกมสำหรับฝึกทักษะความจำ)
