@@ -12,7 +12,8 @@ This game is a memory game.
 3. When presses, there will be a delay of 1 second to press the next button again. The first time there will be 3 flashing buttons.
 The flashing will be randomly selected. (Can repeat with the same button)
 4. If pressed correctly, press the continue button, this time increasing the number of flashing buttons by 1 button.
-
+5. If you press correctly, you will continue to follow number 4.
+6. If you press the wrong button, it's game over.
 
 (โปรแกรมนี้เป็นเกมสำหรับฝึกทักษะความจำ)
 โดยมีขั้นตอนการเล่นดังนี้
