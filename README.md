@@ -25,7 +25,7 @@ The flashing will be randomly selected. (Can repeat with the same button)
 4. หากกดได้ถูกต้องจะทำตามข้อ 3 ไปเรื่อย ๆ
 5. หากกดผิดเป็นอันจบเกม
 
-
+Game Picture
 รูปภาพของเกมส์
 เมื่อเข้ามาหน้าแรกจะเจอกับการสอนเล่น และเมื่อกด play ก็จะไปหน้าตัวเกมส์
 
