@@ -27,6 +27,7 @@ The flashing will be randomly selected. (Can repeat with the same button)
 
 Game Picture
 รูปภาพของเกมส์
+Main menu is contain tutorial and play button.
 เมื่อเข้ามาหน้าแรกจะเจอกับการสอนเล่น และเมื่อกด play ก็จะไปหน้าตัวเกมส์
 
 <p float="left">
