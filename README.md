@@ -35,6 +35,7 @@ Main menu is contain tutorial and play button.
     <img src="https://user-images.githubusercontent.com/53567265/211371362-a4b95e7a-0949-4adf-b646-d1f9c9f2c67e.png" width="250" />
 </p>
 
+When start the button will be flashing themself 3 button.
 เมื่อกด Start ตัวเกมส์จะกระพริบปุ่ม 3 ปุ่มให้เราจำว่าปุ่มอะไรและลำดับอะไรบ้าง
 
 <p float="left">
