@@ -44,6 +44,7 @@ When start the button will be flashing themself 3 button.
   <img src="https://user-images.githubusercontent.com/53567265/210808866-42cb6d5a-e2ac-4411-963f-4fd95ad45ab9.png" width="250" />
 </p>
 
+When finish bliping the message will change from remember to your turn
 เมื่อกระพริบเสร็จแล้วก็จะเปลี่ยนเป็นคำว่า จากคำว่า Remember จะเปลี่ยนเป็นคำว่า Your turn
 
 <img src="https://user-images.githubusercontent.com/53567265/210805120-a51e8e5f-ee04-41b3-a264-3452856c5acd.png" width="250" />
