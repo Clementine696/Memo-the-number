@@ -51,8 +51,7 @@ When finish bliping the message will change from Remember to Your turn
 
 <br>
 
-
-
+So now it's your turn to play.
 ละก็มาถึงตาของเราที่ต้องกดตาม 
 
 <p float="left">
